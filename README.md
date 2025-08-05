@@ -23,8 +23,7 @@
 - **I love...** basketball, working out, nature & travel (over 8 countries so far), and reading philosophy occasionally :)
 
 ## Languages and Tools ✨
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f4ac440f-eab2-4928-9a4c-7664ca907aab" />
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/5e09e92d-4fd3-4ce1-b416-0402cc54acb3" />
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,react,nodejs,flask,fastapi,postgres,openshift,jenkins&perline=4)](https://skillicons.dev)
 
 
 ## 📫 Contact Me  
