@@ -2,7 +2,7 @@
 ---
 
 ## A little bit about me...
-- **Currently in...** 2nd Year Honors Spec in Computer Science and Pursuing Richard Ivey Business School
+- **Currently in...** 2nd Year Honors Spec in Computer Science and Pursuing Richard Ivey School of Business
 
   
 - **Currently learning...** about **Machine Learning and LLMs** by studying the creation of [GPT-2](https://www.youtube.com/watch?v=7xTGNNLPyMI)
