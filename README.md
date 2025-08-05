@@ -8,7 +8,7 @@
 - **Currently learning...** about **Machine Learning and LLMs** by studying the creation of [GPT-2](https://www.youtube.com/watch?v=7xTGNNLPyMI)
   
 
-- - **Building a community with** [Western Founders Network](https://www.foundersnetwork.ca/)
+- **Building a community with** [Western Founders Network](https://www.foundersnetwork.ca/)
 
   
 - **Interested in...** AI, Applied ML, backend development, and **building useful tools, agents, and automations**
