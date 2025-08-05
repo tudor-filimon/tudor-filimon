@@ -28,6 +28,3 @@
 - Personal: tfilimon123@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/tudor-filimon/)  
 
----
-
-*You can embed GitHub Stats, streaks, or custom badges using services like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), shields.io, or profile-readme generators.*  
