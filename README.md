@@ -27,7 +27,7 @@
 
 
 ## 📫 Contact Me  
-- Education/Proffesional: tfilimon@uwo.com
+- Education/Professional: tfilimon@uwo.ca
 - Personal: tfilimon123@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/tudor-filimon/)  
 
