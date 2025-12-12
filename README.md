@@ -2,7 +2,7 @@
 ---
 
 ## A little bit about me...
-- **Currently in...** 2nd Year Honors Spec in Computer Science and Pursuing Richard Ivey School of Business
+- **Currently in...** Honors Spec. in Computer Science 
 
   
 - **Currently learning...** about **Distributed Systems** 
