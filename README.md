@@ -24,7 +24,7 @@
 
 
 ## 📫 Contact Me  
-- Education/Professional: tudor.filimon.work@gmail.com
-- Personal: tfilimon123@gmail.com
+- tudor.filimon.work@gmail.com
+- tfilimon123@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/tudor-filimon/)  
 
