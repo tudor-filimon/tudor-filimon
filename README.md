@@ -2,29 +2,24 @@
 ---
 
 ## A little bit about me...
-- **Currently in...** Honors Spec. in Computer Science 
+- **Currently in...** my 3rd year of Computer Science
 
-  
-- **Currently learning...** about **Distributed Systems** 
+- - **Previously interned at...** American Express, and CIBC
   
 
 - **Building a community with** [Western Founders Network](https://www.foundersnetwork.ca/)
 
   
-- **Interested in...** backend development, AI, Applied ML, and **building useful tools, agents, and automations**
-
-  
-- **Previously interned at...** CIBC in Summer of 2025
+- **Interested in...** backend development, distributed systems, and data engineering.
 
   
 - **I love...** basketball, working out, nature & travel (over 8 countries so far), and reading philosophy occasionally :)
 
 ## Languages and Tools ✨
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,react,nodejs,flask,fastapi,postgres,openshift,jenkins,docker&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kafka,spark,postgres,openshift,jenkins,docker&perline=4)](https://skillicons.dev)
 
 
 ## 📫 Contact Me  
-- tudor.filimon.work@gmail.com
 - tfilimon123@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/tudor-filimon/)  
 
