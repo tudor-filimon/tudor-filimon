@@ -18,8 +18,7 @@
 ## Languages and Tools ✨
 [![My Skills](https://skillicons.dev/icons?i=java,kafka,spring,postgres,openshift,jenkins,docker&perline=4)](https://skillicons.dev)
 
-Apache Spark
-Apache Airflow
+Apache Spark and Apache Airflow
 
 
 ## 📫 Contact Me  
