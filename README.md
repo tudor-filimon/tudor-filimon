@@ -16,7 +16,10 @@
 - **I love...** basketball, working out, nature & travel (over 8 countries so far), and reading philosophy occasionally :)
 
 ## Languages and Tools ✨
-[![My Skills](https://skillicons.dev/icons?i=java,kafka,apachespark,apacheairflow,postgres,openshift,jenkins,docker&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kafka,spring,postgres,openshift,jenkins,docker&perline=4)](https://skillicons.dev)
+
+Apache Spark
+Apache Airflow
 
 
 ## 📫 Contact Me  
