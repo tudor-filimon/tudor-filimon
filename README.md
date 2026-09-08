@@ -4,7 +4,7 @@
 ## A little bit about me...
 - **Currently in...** my 3rd year of Computer Science
 
-- - **Previously interned at...** American Express, and CIBC
+- **Previously interned at...** American Express, and CIBC
   
 
 - **Building a community with** [Western Founders Network](https://www.foundersnetwork.ca/)
@@ -16,7 +16,7 @@
 - **I love...** basketball, working out, nature & travel (over 8 countries so far), and reading philosophy occasionally :)
 
 ## Languages and Tools ✨
-[![My Skills](https://skillicons.dev/icons?i=java,kafka,spark,postgres,openshift,jenkins,docker&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kafka,apachespark,apacheairflow,postgres,openshift,jenkins,docker&perline=4)](https://skillicons.dev)
 
 
 ## 📫 Contact Me  
